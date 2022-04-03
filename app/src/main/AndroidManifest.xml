@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Assignment2">
         <activity
+            android:name=".d"
+            android:exported="false" />
+        <activity
+            android:name=".c"
+            android:exported="false" />
+        <activity
+            android:name=".b"
+            android:exported="false" />
+        <activity
             android:name=".a"
             android:exported="false" />
         <activity

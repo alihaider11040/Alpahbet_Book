@@ -4,13 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".a">
+    tools:context=".c">
 
     <Button
-        android:id="@+id/button_a"
-        android:layout_width="225dp"
-        android:layout_height="99dp"
+        android:id="@+id/button_c"
+        android:layout_width="240dp"
+        android:layout_height="125dp"
         android:text="Next"
-        tools:layout_editor_absoluteX="149dp"
-        tools:layout_editor_absoluteY="366dp" />
+        tools:layout_editor_absoluteX="11dp"
+        tools:layout_editor_absoluteY="393dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>

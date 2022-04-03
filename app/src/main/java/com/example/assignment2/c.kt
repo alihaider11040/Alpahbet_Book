@@ -6,16 +6,16 @@ import android.os.Bundle
 import android.view.View
 import android.widget.Button
 
-class a : AppCompatActivity() {
+class c : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_a)
-        var button = findViewById<Button>(R.id.button_a)
+        setContentView(R.layout.activity_c)
+        var button = findViewById<Button>(R.id.button_c)
         button.setOnClickListener(
             View.OnClickListener
         {
 
-            startActivity(Intent(this, b::class.java));
+            startActivity(Intent(this, d::class.java));
 
         })
     }
