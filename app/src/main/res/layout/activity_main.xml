@@ -15,8 +15,8 @@
         android:inputType="textMultiLine"
         android:text="           My_Book"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
-        tools:layout_editor_absoluteX="295dp"
-        tools:layout_editor_absoluteY="680dp" />
+        tools:layout_editor_absoluteX="76dp"
+        tools:layout_editor_absoluteY="385dp" />
 
     <EditText
         android:id="@+id/editTextDate"
@@ -25,8 +25,8 @@
         android:ems="10"
         android:inputType="date"
         android:text=" Designed as Assignment"
-        tools:layout_editor_absoluteX="323dp"
-        tools:layout_editor_absoluteY="753dp" />
+        tools:layout_editor_absoluteX="113dp"
+        tools:layout_editor_absoluteY="526dp" />
 
     <Button
         android:id="@+id/button1"
@@ -41,6 +41,6 @@
         android:layout_width="117dp"
         android:layout_height="149dp"
         app:srcCompat="@android:drawable/btn_star_big_on"
-        tools:layout_editor_absoluteX="330dp"
-        tools:layout_editor_absoluteY="474dp" />
+        tools:layout_editor_absoluteX="147dp"
+        tools:layout_editor_absoluteY="190dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
